@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="SpinnerTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#FF5722</item> <!-- Spinner selected item -->
+        <item name="android:textColorPrimary">#FF5722</item>
+    </style>
+
+</resources>
